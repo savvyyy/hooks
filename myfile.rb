@@ -6,7 +6,7 @@ class Octocat
 
     def display 
         breed = @breeds.join("-")
-        puts "I m of #{breeds} breed, and my name is #{name}."
+        puts "I am of #{breeds} breed, and my name is #{name}."
     end
 end
 
